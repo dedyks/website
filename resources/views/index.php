@@ -23,11 +23,11 @@
 <link rel="stylesheet" href="css/jquery.vegas.min.css">
 <link rel="stylesheet" href="css/animate.min.css">
 
-<link rel="stylesheet" href="assets/icon-fonts/styles.css">
+<link rel="stylesheet" href="<?php echo asset('assets/icon-fonts/styles.css')?>">
 <link rel="stylesheet" href="css/pixeden-icons.css">
 
 <!-- CUSTOM STYLES -->
-<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" href="<?php echo asset('css/styles.css')?>">
 <link rel="stylesheet" href="css/responsive.css">
 
 <!-- WEBFONT -->
